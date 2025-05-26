@@ -9,15 +9,15 @@ Analytically-focused problem solver passionate about applied data science, produ
 
 - 📊 I advise at the crossroads of data and product teams, helping bridge the gap between technical insights and strategic decision-making.
 - 🧠 Always exploring new ways to leverage AI/ML, data engineering, and cloud technologies for real-world impact.
-- 🚀 Dedicated to building data products and fostering leadership in analytics-driven environments.
+- 🚀 Obsessed with building value-add data-based products and services
 
 ---
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** Python, SQL, NoSQL
+- **Languages:** Python, SQL, NoSQL, R
 - **Specialties:** AI/ML, Cloud, Data Product Development, Team Leadership
-- **Domains:** Applied Data Science, Product Ownership, Enrollment Management
+- **Domains:** Applied Data Science, Product Ownership, EdTech and Enrollment Management
 
 ---
 
