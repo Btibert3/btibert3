@@ -24,7 +24,7 @@ Analytically-focused problem solver passionate about applied data science, produ
 ## 🌟 Featured Project
 
 ### [Pypeds](https://github.com/Btibert3/pypeds)
-*Open-source tools and resources for pediatric data science.*
+Library to interface with NCES IPEDS data via Python.
 
 ---
 
@@ -35,4 +35,4 @@ Analytically-focused problem solver passionate about applied data science, produ
 
 ---
 
-> “Turning data into actionable insight and innovation, one project at a time.”
+
