@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Brock Tibert (Btibert3)
 
-<!--
-**Btibert3/btibert3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Lecturer, Information Systems Department — Boston University**  
+Analytically-focused problem solver passionate about applied data science, product ownership, and technological innovation in Enrollment Management.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 📊 I advise at the crossroads of data and product teams, helping bridge the gap between technical insights and strategic decision-making.
+- 🧠 Always exploring new ways to leverage AI/ML, data engineering, and cloud technologies for real-world impact.
+- 🚀 Dedicated to building data products and fostering leadership in analytics-driven environments.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** Python, SQL, NoSQL
+- **Specialties:** AI/ML, Cloud, Data Product Development, Team Leadership
+- **Domains:** Applied Data Science, Product Ownership, Enrollment Management
+
+---
+
+## 🌟 Featured Project
+
+### [Pypeds](https://github.com/Btibert3/pypeds)
+*Open-source tools and resources for pediatric data science.*
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/brocktibert/)
+- **Email:** brocktibert@gmail.com
+
+---
+
+> “Turning data into actionable insight and innovation, one project at a time.”
