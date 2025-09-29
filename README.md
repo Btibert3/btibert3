@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brock Tibert (Btibert3)
+# 👋 Hi, I'm Brock Tibert
 
 **Senior Lecturer, Information Systems Department — Boston University**  
 Analytically-focused problem solver passionate about applied data science, product ownership, and technological innovation in Enrollment Management.
